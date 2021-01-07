@@ -1,0 +1,21 @@
+{
+  "name": "discord.js-moderation-bot-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "Arek"
+  ],
+  "author": "Arek arek",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  }
+}
